@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR3e0077/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0077/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫旨緒餘
+  date: '2015-08-24 23:07:32.652357'
+  source:
+    repository: kanripo
+    path: KR3e0077
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0077_000-WYG.yaml, hash: 'sha256:3ddd9f7ca893ebe662977dff76c25a35d67209560339d9d89ea9094127b212b7'}
+  - {seq: 1, filename: KR3e0077_001-WYG.yaml, hash: 'sha256:a2ce2abc0236ff1aab1d496f5de28bb2c2ed1df5bc7ce0f32795424652639276'}
+  - {seq: 2, filename: KR3e0077_002-WYG.yaml, hash: 'sha256:2041e18fd45559a94f137df2ed5f39ec09c438d2dfd58143ab8d2506712ac7db'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0077_000-WYG.markers.yaml, hash: 'sha256:31b9c223fa64554410291f9fa39cfa1c9d32e969aa70bda106c42455b32dd048'}
+  - {seq: 1, role: markers, filename: assets/KR3e0077_001-WYG.markers.yaml, hash: 'sha256:83a34b8c6ec5d1911be736db32dfdfac118778383c050bf40b11ca6334627a14'}
+  - {seq: 2, role: markers, filename: assets/KR3e0077_002-WYG.markers.yaml, hash: 'sha256:a8962abccef90e0f95c274305d5bffc7917dc82a5aa3479b3fe750b2db48a8a2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0077_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 255
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0077_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 27500
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0077_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 26207
+  label: 卷下
+  type: section
+  level: 1
+hash: sha256:04d431320f49412107f0bd4af60061cd3cb162829b38286aae37f3b722d74f7d

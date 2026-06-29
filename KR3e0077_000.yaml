@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0077/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部五
+  hash: sha256:385bc2d94867d1b606f43bb11ebdc68a3a5579aafe48be2b02b9eb652717f689
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0077_WYG_000-1a, image: WYG0766/WYG0766-1079a.png}
+body:
+  text: 醫㫖緒餘醫家類提要臣等謹案醫㫖緒餘二卷明孫一奎撰發明太極陰陽五行之理備于人身分别臟腑形質手足經上下宗氣營氣衛氣三焦包絡命門相火及各經絡配合之義又引黃庭經以證丹溪相火屬右腎之非引脈訣刋誤以駁三因方三焦有形如脂膜之謬分噎腑翻胃為二症辨癲狂癎之異治皆卓然有特識其議論諸家長短謂仲景不徒以傷寒擅名守真不獨以治火要譽戴人不當以攻擊䝉譏東垣不専以內傷樹績陽有餘陰不足之論不可以疵丹溪而攖寧生之技亦可足垂不朽尤千古持平之論原本與醫案同附赤水元珠之後今各自為帙云乾隆四十四年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:fc98ba4f777af157ccbc4b3920fe08a96efa17caf80fd129e7e8dc612f24ae35
+metadata:
+  title: 醫旨緒餘
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:07:32.652357'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3e0077/KR3e0077_000.txt
+hash: sha256:dee844fbe9a53584228e3279ae915c47f1b87e7a4bd65c806d820a3543a190f2
